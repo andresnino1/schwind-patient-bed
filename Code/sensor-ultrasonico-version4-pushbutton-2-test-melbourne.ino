@@ -1,3 +1,5 @@
+//Main Program for Patient Bed Detection
+
 #include <EEPROM.h>
 
 int eeprom_address_RL = 0; // Eeprom memory position for RL calibration value
