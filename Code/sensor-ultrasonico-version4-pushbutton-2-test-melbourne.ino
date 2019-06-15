@@ -1,4 +1,5 @@
 //Main Program for Patient Bed Detection
+//This project was designed to check the patient bed position of the Amaris and VisuMax laser
 
 #include <EEPROM.h>
 
