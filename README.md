@@ -13,4 +13,5 @@ The goal of the project was:
 - Develop the PCB layaut of the circuit
 - Test the final proyect on the machine.
 
-https://github.com/andresnino1/schwind-patient-bed/blob/master/Images/IMG_2524.jpg
+![IMG_2524](https://user-images.githubusercontent.com/36426460/70100119-e0216300-1684-11ea-93b1-7a1b856b673f.jpg)
+
