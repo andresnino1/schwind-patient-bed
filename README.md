@@ -16,5 +16,5 @@ The goal of the project was:
 ![IMG_2524](https://user-images.githubusercontent.com/36426460/70100119-e0216300-1684-11ea-93b1-7a1b856b673f.jpg)
 ![IMG_2534](https://user-images.githubusercontent.com/36426460/70100396-b157bc80-1685-11ea-9991-5edbda8960bd.jpg)
 ![IMG_2540](https://user-images.githubusercontent.com/36426460/70100507-0a275500-1686-11ea-8b27-1028f203f911.jpg)
-
+![IMG_2528](https://user-images.githubusercontent.com/36426460/70100638-69856500-1686-11ea-8497-c5bc135c040f.jpg)
 
