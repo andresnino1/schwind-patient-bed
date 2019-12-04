@@ -18,4 +18,5 @@ The goal of the project was:
 ![IMG_3](https://github.com/andresnino1/schwind-patient-bed/blob/master/Images/IMG_2540.jpg)
 ![IMG_4](https://github.com/andresnino1/schwind-patient-bed/blob/master/Images/IMG_2535.jpg)
 ![IMG_5](https://github.com/andresnino1/schwind-patient-bed/blob/master/Images/IMG_2526.jpg)
+![IMG_6](https://github.com/andresnino1/schwind-patient-bed/blob/master/Images/IMG_2525.jpg)
 
