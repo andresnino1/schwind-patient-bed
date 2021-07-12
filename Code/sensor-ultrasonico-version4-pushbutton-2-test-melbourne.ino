@@ -1,3 +1,6 @@
+//Main Program for Patient Bed Detection
+//This project was designed to check the patient bed position of the Amaris and VisuMax laser
+
 #include <EEPROM.h>
 
 int eeprom_address_RL = 0; // Eeprom memory position for RL calibration value
